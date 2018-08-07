@@ -1,0 +1,9 @@
+{
+    "path" : "~/GitHub/02 Breast cancer",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
